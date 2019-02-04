@@ -8,3 +8,4 @@ def modify():
 modify()
 print "outside function:", x
 print "hello"
+print "from server"
